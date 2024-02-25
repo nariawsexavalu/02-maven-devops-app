@@ -94,6 +94,11 @@
                     "ActionTypeText": "Link",
                     "ActionDisplayText": "Complete Online",
                     "ActionParameterText": "CLMEVENT"
+                },
+{
+                    "ActionTypeText": "Link",
+                    "ActionDisplayText": "Complete Online",
+                    "ActionParameterText": "CLMEVENT"
                 }
             ]
         },
