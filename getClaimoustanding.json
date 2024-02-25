@@ -124,6 +124,19 @@
                     "ActionTypeText": "Link",
                     "ActionDisplayText": "Upload Documents",
                     "ActionParameterText": "Upload"
+                },
+{
+            "TaskTypeID": "LGLADOPT",
+            "TaskName": "Legal Adoption Documentation",
+            "TaskActualStartDate": "2022-03-10T16:21:09",
+            "TaskIdentifier": "16143",
+            "TaskDisplayText": "Please provide proof of your legal adoption.",
+            "TaskTitleText": "Legal Adoption Documentation",
+            "Actions": [
+                {
+                    "ActionTypeText": "Link",
+                    "ActionDisplayText": "Upload Documents",
+                    "ActionParameterText": "Upload"
                 }
             ]
         }
