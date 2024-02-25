@@ -1,0 +1,131 @@
+{(
+    "Completion": {
+        "Successful": "true",
+        "Status": "Success"
+    },
+    "ClaimInformation": [
+        {
+            "TaskTypeID": "ACCDTE",
+            "TaskName": "Accident Date",
+            "TaskActualStartDate": "2022-03-10T16:21:06",
+            "TaskIdentifier": "16135",
+            "TaskDisplayText": "Please provide the date on which your accident occurred.",
+            "TaskTitleText": "Accident Date",
+            "Actions": [
+                {
+                    "ActionTypeText": "SingleField",
+                    "ActionDisplayText": "Submit",
+                    "ActionParameterText": "Date"
+                }
+            ]
+        },
+        {
+            "TaskTypeID": "ATTPHYST",
+            "TaskName": "Attending Physician Statement",
+            "TaskActualStartDate": "2022-03-10T16:21:06",
+            "TaskIdentifier": "16137",
+            "TaskDisplayText": "Please submit the completed Attending Physician Statement to ensure timely processing of your claim.",
+            "TaskTitleText": "Attending Physician Statement",
+            "Actions": [
+                {
+                    "ActionTypeText": "Link",
+                    "ActionDisplayText": "Upload Documents",
+                    "ActionParameterText": "Upload"
+                },
+                {
+                    "ActionTypeText": "Link",
+                    "ActionDisplayText": "Complete Online",
+                    "ActionParameterText": "Forms"
+                }
+            ]
+        },
+        {
+            "TaskTypeID": "AUTHFORM",
+            "TaskName": "Authorization Form",
+            "TaskActualStartDate": "2022-03-10T16:21:07",
+            "TaskIdentifier": "16138",
+            "TaskDisplayText": "Please complete the Authorization Form to ensure timely processing of your claim.",
+            "TaskTitleText": "Authorization Form",
+            "Actions": [
+                {
+                    "ActionTypeText": "Link",
+                    "ActionDisplayText": "Complete Online",
+                    "ActionParameterText": "Forms"
+                }
+            ]
+        },
+        {
+            "TaskTypeID": "DTHCERT",
+            "TaskName": "Death Certificate",
+            "TaskActualStartDate": "2022-03-10T16:21:07",
+            "TaskIdentifier": "16139",
+            "TaskDisplayText": "Please submit the death certificate.",
+            "TaskTitleText": "Death Certificate",
+            "Actions": [
+                {
+                    "ActionTypeText": "Link",
+                    "ActionDisplayText": "Upload Documents",
+                    "ActionParameterText": "Upload"
+                }
+            ]
+        },
+        {
+            "TaskTypeID": "EECLLUNM",
+            "TaskName": "Employee Call Unum",
+            "TaskActualStartDate": "2022-03-10T16:21:08",
+            "TaskIdentifier": "16140",
+            "TaskDisplayText": "Please call your specialist to discuss your claim. Additional information is needed for us to continue to evaluate your claim.",
+            "TaskTitleText": "Employee Call Unum"
+        },
+        {
+            "TaskTypeID": "EESTMT",
+            "TaskName": "Employee Statement",
+            "TaskActualStartDate": "2022-03-10T16:21:08",
+            "TaskIdentifier": "16141",
+            "TaskDisplayText": "Please complete the Employee Statement Form to ensure timely processing of your claim.",
+            "TaskTitleText": "Employee Statement",
+            "Actions": [
+                {
+                    "ActionTypeText": "Link",
+                    "ActionDisplayText": "Upload Documents",
+                    "ActionParameterText": "Upload"
+                },
+                {
+                    "ActionTypeText": "Link",
+                    "ActionDisplayText": "Complete Online",
+                    "ActionParameterText": "CLMEVENT"
+                }
+            ]
+        },
+        {
+            "TaskTypeID": "HOSPDIS",
+            "TaskName": "Hospital Discharge Information",
+            "TaskActualStartDate": "2022-03-10T16:21:08",
+            "TaskIdentifier": "16142",
+            "TaskDisplayText": "Please provide the date on which you were discharged from the hospital for this claim.",
+            "TaskTitleText": "Hospital Discharge Information",
+            "Actions": [
+                {
+                    "ActionTypeText": "SingleField",
+                    "ActionDisplayText": "Submit",
+                    "ActionParameterText": "Date"
+                }
+            ]
+        },
+        {
+            "TaskTypeID": "LGLADOPT",
+            "TaskName": "Legal Adoption Documentation",
+            "TaskActualStartDate": "2022-03-10T16:21:09",
+            "TaskIdentifier": "16143",
+            "TaskDisplayText": "Please provide proof of your legal adoption.",
+            "TaskTitleText": "Legal Adoption Documentation",
+            "Actions": [
+                {
+                    "ActionTypeText": "Link",
+                    "ActionDisplayText": "Upload Documents",
+                    "ActionParameterText": "Upload"
+                }
+            ]
+        }
+    ]
+}
